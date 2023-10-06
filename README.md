@@ -1,10 +1,10 @@
 # TimeSeriesData
 
 ```
-Autoformer
+LTSF-Linear(Autoformer)
 
 ETT - the data collected from electricity transformers, including load and oil temperature that are recorded every 15 minutes between July 2016 and July 2018
-Electricity - the hourly electricity consumption of 321 customers from 2012 to 2014. 
+Electricity(321) - the hourly electricity consumption of 321 customers from 2012 to 2014. 
 Exchange - the daily exchange rates of eight different countries ranging from 1990 to 2016
 Traffic - a collection of hourly data from California Department of Transportation, which describes the road occupancy rates measured by different sensors on San Francisco Bay area freeways
 Weather - recorded every 10 minutes for 2020 whole year, which contains 21 meteorological indicators, such as air temperature, humidity, etc
